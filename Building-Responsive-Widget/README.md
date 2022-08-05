@@ -55,5 +55,7 @@ ResponsivenessWidget.isSmallScreen(context)
 
 # Demo Clip:-
 
-[](https://github.com/Tidings-SP/Flutter-Projects/blob/main/Demo-Clip/1.mp4)
+https://user-images.githubusercontent.com/76809211/183025134-d3f5159b-8bfe-4ca0-81ec-654fb184e171.mp4
+
+
 ---
