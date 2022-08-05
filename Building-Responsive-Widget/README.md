@@ -39,6 +39,14 @@
    
    * The above code snippet yields a vector object from we can obtain the screen width in order to replace or resize the widget.
    * In this demo application, the widget is switched between large and small screens, and when the screen size is shrunk to its threshold size, a hamburger menu is replaced in the top navigation bar. 
+   
+```dart
+// Code Snippet
+ResponsivenessWidget(
+          largeScreen: LargeScreen(),
+          smallScreen: SmallScreen(),
+        )
+```
 
 # Demo Clip:-
 
