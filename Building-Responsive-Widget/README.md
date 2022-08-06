@@ -26,7 +26,8 @@
 
  * Determine the current screen size.
  
- * Update the widget with respect to the size.
+ * Update the widget with respect to the size.
+ 
  
  #### Get the current screen resolution:
  
