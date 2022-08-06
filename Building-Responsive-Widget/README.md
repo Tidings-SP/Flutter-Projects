@@ -25,6 +25,7 @@
 #### Steps involved in creating responsive widget:
 
  * Determine the current screen size.
+ 
  * Update the widget with respect to the size.
  
  #### Get the current screen resolution:
